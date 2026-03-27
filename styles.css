@@ -2,7 +2,7 @@
 td, th{
 	border:1px solid #ccc;
 	border-radius:5px;
-	padding:0.5 rem;
+	padding:0.5rem;
 }
 
 tr:nth-of-type(odd){
